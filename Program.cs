@@ -62,8 +62,9 @@ namespace aiscantech_demo
                 if (args[0] == "API_KEY_HERE")
                 {
                     Console.WriteLine("API key must be provided as the first argument to the command in your Dockerfile.");
+                    return;
                 }
-                return;
+                
             }
 
             //build the url to make the request
