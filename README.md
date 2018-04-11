@@ -32,6 +32,8 @@ dotnet build
 
 Clone the project and cd to directory
 
+Edit the line in Dockerfile replacing API_KEY_HERE with your API key.
+
 ```
 sudo docker build -t aiscantech_demo .
 sudo docker run --rm aiscantech_demo
