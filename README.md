@@ -8,12 +8,13 @@ Register at tabscanner.com for an API key.
 
 ### Prerequisites
 
+```
 dotnet core version 2
-
-The latest version of docker if you prefer the docker way.
+```
+Optional
 
 ```
-Give examples
+The latest version of docker if you prefer the docker way.
 ```
 
 ### Installing
