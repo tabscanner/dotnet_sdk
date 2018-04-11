@@ -31,7 +31,6 @@ dotnet build
 ### Docker
 
 Clone the project and cd to directory
-sudo docker 
 
 ```
 sudo docker build -t aiscantech_demo .
