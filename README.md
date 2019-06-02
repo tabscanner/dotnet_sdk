@@ -1,6 +1,6 @@
-# AI Scan Tech- dotnet sdk
+# Tabscanner- dotnet sdk
 
-A demo application and related classes used to call the AI Scan Tech Receipt OCR API and process the results using dotnet core. This demo app will upload a receipt image in the receipt_images directory to the API and return the result as a dotnet object. It will also demonstrate serialising the result to json and saving as a file in the results directory.
+A demo application and related classes used to call the Tabscanner Receipt OCR API and process the results using dotnet core. This demo app will upload a receipt image in the receipt_images directory to the API and return the result as a dotnet object. It will also demonstrate serialising the result to json and saving as a file in the results directory.
 
 ## Getting Started
 
